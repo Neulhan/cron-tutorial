@@ -47,5 +47,5 @@ settings.CRONJOBS 는 리스트이고 해당 리스트에 들어있는 task들�
 
 
 ref
-(https://pypi.org/project/django-crontab/)[https://pypi.org/project/django-crontab/]
+[https://pypi.org/project/django-crontab/](https://pypi.org/project/django-crontab/)
 
