@@ -114,4 +114,4 @@ USE_TZ = True
 
 STATIC_URL = "/static/"
 
-CRONJOBS = [("* * * * *", "utils.a.function_a")]
+CRONJOBS = [("* * * * *", "utils.a.function_a", ">> log.txt")]

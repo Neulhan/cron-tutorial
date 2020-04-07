@@ -3,7 +3,7 @@ from django.utils import timezone
 
 
 def function_a():
-    os.system("echo a {} >> a.txt".format(timezone.now()))
+    print(timezone.now())
 
 
 if __name__ == "__main__":
