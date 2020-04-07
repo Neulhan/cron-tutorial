@@ -45,3 +45,7 @@ settings.CRONJOBS 는 리스트이고 해당 리스트에 들어있는 task들�
 - 세 번째 인자는 해당 task 를 실행할 때 뒤에 붙이고 싶은 명령어입니다. cron 자체가 윈도우에서는 동작하지 않기 때문에 대부분 unix 기반의 터미널 명령어를 추가해 줍니다. 여기서는 cronjob 에 오류가 났을 때 디버깅 하기 쉽도록 로그를 찍는 코드를 적어놓았습니다.
 
 
+
+ref
+(https://pypi.org/project/django-crontab/)[https://pypi.org/project/django-crontab/]
+
